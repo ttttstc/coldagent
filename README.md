@@ -68,7 +68,6 @@
 
   # 还原后的 ColdAgent 源码
 
-  ![Preview](preview.png)
 
   这个仓库是一个主要通过 source map 逆向还原、再补齐缺失模块后得到的 ColdAgent 源码树。
 
