@@ -2,8 +2,6 @@
 # Restored ColdAgent Source
 
 
-![Preview](preview.png)
-
 
   This repository is a restored ColdAgent source tree reconstructed primarily from source maps and missing-module backfilling.
 
